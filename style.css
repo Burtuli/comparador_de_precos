@@ -1,0 +1,21 @@
+.img1{
+    left: 0px;
+    top: 300px;
+    width: 150px;
+    height: 100px;
+}
+header {
+    background-color: #ff5050;
+    color: #f1ebeb;
+    padding: 50px;
+    text-align: center;
+}
+footer {
+    background-color: #ff5050;
+    color: #f1ebeb;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
